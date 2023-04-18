@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 💬 Ask me about **Python , Sql ,**
+- 💬 Ask me about **Python, Sql, Data Processing,  Data Visualization and Story telling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
