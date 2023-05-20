@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doreennamayanja&label=Profile%20views&color=0e75b6&style=flat" alt="doreennamayanja" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently **A Data Analyst**
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
-- 💬 Ask me about **Python, Sql, Data Processing,  Data Visualization and Story telling.**
+- 💬 Ask me about **Python, Sql, Excel, IBM Cognos, Azure Az900, Data Processing, Data Visualization and Story telling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
